@@ -1,0 +1,22 @@
+{
+  "name": "deusbyte",
+  "version": "1.0.0",
+  "description": "A choose-your-own adventure game that operates entirely in a Node environment.",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msedlazek/DeusByte.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msedlazek/DeusByte/issues"
+  },
+  "homepage": "https://github.com/msedlazek/DeusByte#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
